@@ -13,4 +13,4 @@ Recently, I completed an IT Operations internship at Empresas CMPC (working with
 - Linux, Bash scripting, Python
 - Nmap, Burp Suite, Gobuster, Metasploit
 
-Feel free to connect with me on [LinkedIn](AQUÍ_PONES_TU_LINK_DE_LINKEDIN)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sebastianpalmaruz/)!
