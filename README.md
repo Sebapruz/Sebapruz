@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! I'm Sebastián 👋
 
-<!--
-**Sebapruz/Sebapruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science Engineering student based in Santiago, Chile. I'm currently training to transition into the cybersecurity field, balancing my time between university, hands-on labs, and weekend photography.
 
-Here are some ideas to get you started:
+Recently, I completed an IT Operations internship at Empresas CMPC (working with BMC Helix, Grafana, and ITIL 4), which gave me a solid understanding of how enterprise infrastructure works. Now, I'm diving deep into offensive and defensive security to figure out my specialization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm doing right now:**
+- 💻 Grinding through the TryHackMe Complete Beginner & Jr. Penetration Tester paths.
+- 🐧 Working heavily in Kali Linux, getting comfortable with networking, enumeration, and web vulnerabilities.
+- 📝 Documenting my learning journey (check out my portfolio repo below!).
+
+**Tech & Tools I'm currently working with:**
+- Linux, Bash scripting, Python
+- Nmap, Burp Suite, Gobuster, Metasploit
+
+Feel free to connect with me on [LinkedIn](AQUÍ_PONES_TU_LINK_DE_LINKEDIN)!
