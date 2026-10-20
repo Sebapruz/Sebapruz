@@ -1,16 +1,16 @@
-### Hi there! I'm Sebastián 👋
+### ¡Hola! Soy Sebastián 👋
 
-I'm a final-year Computer Science Engineering student based in Santiago, Chile. I'm currently training to transition into the cybersecurity field, balancing my time between university, hands-on labs, and weekend photography.
+Estudiante de 5° año de Ingeniería Civil en Computación e Informática en Santiago, Chile. Me estoy formando en ciberseguridad de forma integral, tanto en el lado ofensivo como en el defensivo, y reparto mi tiempo entre la universidad, los laboratorios prácticos y la fotografía de fin de semana.
 
-Recently, I completed an IT Operations internship at Empresas CMPC (working with BMC Helix, Grafana, and ITIL 4), which gave me a solid understanding of how enterprise infrastructure works. Now, I'm diving deep into offensive and defensive security to figure out my specialization.
+Hace poco terminé mi práctica en Operaciones TI en Empresas CMPC, donde trabajé con BMC Helix, Grafana e ITIL 4. Ahí entendí cómo funciona la infraestructura de una empresa grande. Ahora estoy profundizando en seguridad ofensiva y defensiva para definir mi especialización con base en experiencia real.
 
-**What I'm doing right now:**
-- 💻 Grinding through the TryHackMe Complete Beginner & Jr. Penetration Tester paths.
-- 🐧 Working heavily in Kali Linux, getting comfortable with networking, enumeration, and web vulnerabilities.
-- 📝 Documenting my learning journey (check out my portfolio repo below!).
+**En qué estoy ahora:**
+- 💻 Avanzando en las rutas Cyber Security 101 y Jr. Penetration Tester de TryHackMe.
+- 🐧 Trabajando a diario en Kali Linux: redes, enumeración y vulnerabilidades web.
+- 📝 Documentando lo que aprendo en mi [portafolio de ciberseguridad](https://github.com/Sebapruz/cybersecurity-portfolio).
 
-**Tech & Tools I'm currently working with:**
-- Linux, Bash scripting, Python
+**Tecnologías y herramientas que uso:**
+- Linux, Bash, Python
 - Nmap, Burp Suite, Gobuster, Metasploit
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sebastianpalmaruz/)!
+Conversemos por [LinkedIn](https://www.linkedin.com/in/sebastianpalmaruz/).
